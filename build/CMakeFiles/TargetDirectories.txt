@@ -1,0 +1,3 @@
+/home/cay/experiment/mylPSI/build/CMakeFiles/myLaconicPSI.dir
+/home/cay/experiment/mylPSI/build/CMakeFiles/edit_cache.dir
+/home/cay/experiment/mylPSI/build/CMakeFiles/rebuild_cache.dir
